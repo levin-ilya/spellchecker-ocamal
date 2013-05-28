@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/16/trunk/data
+END
+10words
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/16/trunk/data/10words
+END
+Notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/14/trunk/data/Notes.txt
+END
+smallmisspelledwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/16/trunk/data/smallmisspelledwords.txt
+END
+bigList.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/16/trunk/data/bigList.txt
+END
+misspelledwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/16/trunk/data/misspelledwords.txt
+END
+smallWordList.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/16/trunk/data/smallWordList.txt
+END
